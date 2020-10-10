@@ -17,3 +17,5 @@ In the project directory, you can run:
 * постить какие-то новые записи;
 * записи можно выделять, лайкать, фильтровать и удалять;
 
+![screenshot_twitter](https://i.imgur.com/Lx1dTto.jpg)
+# imgur.com ресурс для загрузки скриншотов
